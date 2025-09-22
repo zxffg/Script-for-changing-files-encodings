@@ -103,12 +103,9 @@ This script is provided as-is for educational and utility purposes.
 
 ## Author
 
-Created by parcefall
-Text write -- warp
-
---
-
-⭐ If this tool helps you, please consider giving it a star on GitHub!
+- Created by parcefall
+- Text write -- warp
+- If this tool helps you, please consider giving it a star on GitHub!
 =======
 # Script-for-changing-files-encodings
 Скрипт написанный в Notepad для CMD, который меняет кодировки файлов через iconv. Немножко было тяжело писать, но warp мне немножко помог.
