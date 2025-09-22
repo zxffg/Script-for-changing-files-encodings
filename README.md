@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EnConvert - Text File Encoding Converter
 
 A Windows batch script utility for converting text file encodings recursively in directories.
@@ -107,3 +108,7 @@ Created by parcefall (vladkabaev99@gmail.com)
 ---
 
 ⭐ If this tool helps you, please consider giving it a star on GitHub!
+=======
+# Script-for-changing-files-encodings
+Скрипт написанный в Notepad для CMD, который меняет кодировки файлов через iconv. Немножко было тяжело писать, но warp мне немножко помог.
+>>>>>>> c454bbf8e22cee8b921a8b5f5c8055877a300576
